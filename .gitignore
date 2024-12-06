@@ -76,7 +76,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
+yoloenv/
 build/
 develop-eggs/
 dist/

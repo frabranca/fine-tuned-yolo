@@ -1,0 +1,4 @@
+train: ../../data/drone_data/drone-detection-new.v5-new-train.yolov8/train/
+val: ../../data/drone_data/drone-detection-new.v5-new-train.yolov8/test/
+nc: 3  # Number of classes
+names: ['airplane', 'drone', 'helicopter']  # Class names
