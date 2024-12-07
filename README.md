@@ -6,7 +6,7 @@ YOLOv5 🚀 is the world's most loved vision AI, representing <a href="https://w
 The chosen dataset to fine-tune the model is found on [kaggle](https://www.kaggle.com/datasets/cybersimar08/drone-detection). This dataset includes various images of aerial vehicles flying. The original YOLOV5 was trained on 80 different classes of objects, hence its performance on the kaggle dataset is poor. This project focuses on specializing the original model by fine-tuning it on the kaggle dataset and including only 3 possible object classes (airplanes, drones, helicopters).
 
 <div align="center">
-  <img width="100%" src="airplane.jpg">
+  <img width="30%" src="airplane.jpg">
 </div>
 
 ### Training
