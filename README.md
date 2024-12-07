@@ -8,7 +8,7 @@ The chosen dataset to fine-tune the model is found on [kaggle](https://www.kaggl
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img width="30%" src="airplane.jpg" alt="Side Image 1" style="margin-right: 10px;">
-    <img width="40%" src="drone.jpg" alt="Main Image">
+    <img width="30%" src="drone.jpg" alt="Main Image">
     <img width="30%" src="helicopter.jpg" alt="Side Image 2" style="margin-left: 10px;">
   </div>
 </div>
