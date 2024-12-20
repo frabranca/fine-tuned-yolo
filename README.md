@@ -22,6 +22,3 @@ The model was trained with the following settings:
 - train dataset: 10799 images;
 - test dataset: 596 images;
 
-### Validation
-
-
